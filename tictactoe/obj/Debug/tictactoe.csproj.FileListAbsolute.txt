@@ -1,0 +1,10 @@
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Guest1\OneDrive\เอกสาร\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
